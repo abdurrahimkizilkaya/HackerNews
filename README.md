@@ -26,8 +26,8 @@ This app fetches data from the Hacker News API. You can find more information ab
 
 ## Screenshots
 
-![Main Screen](screenshots/main_screen.png)
+<img src="screenshots/main_screen.png" alt="Main Screen" width="300">
 *Main Screen*
 
-![Detail Screen](screenshots/detail_screen.png)
+<img src="screenshots/detail_screen.png" alt="Detail Screen" width="300">
 *Detail Screen*
