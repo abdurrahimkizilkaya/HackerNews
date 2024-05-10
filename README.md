@@ -4,8 +4,6 @@ This iOS app fetches technology news from the Hacker News API and displays them 
 
 ## Features
 
-## Features
-
 - Fetches technology news from the [Hacker News API](https://hn.algolia.com)
 
 ## Technologies Used
